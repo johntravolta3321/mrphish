@@ -75,13 +75,13 @@ __EXIT__ :
 
 <br>
 <p align="center">
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96468249-b6abf000-11e0-11eb-99cd-8154671d9894.jpg"/>
+
 </p>
 
 
 # BUY ME A COFFEE :
 
 <p align="center">
-<a src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=Donate&targets-hint=&default-sum=100&button-text=13&payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410017876013045" width="100%" height="224" frameborder="0" allowtransparency="true" scrolling="no"></a>
+<iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=Donate&targets-hint=&default-sum=100&button-text=13&payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410017876013045" width="100%" height="224" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 </p>
 
