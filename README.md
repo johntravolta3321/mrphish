@@ -79,9 +79,3 @@ __EXIT__ :
 </p>
 
 
-# BUY ME A COFFEE :
-
-<p align="center">
-<iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=Donate&targets-hint=&default-sum=100&button-text=13&payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410017876013045" width="100%" height="224" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
-</p>
-
